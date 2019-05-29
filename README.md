@@ -1,6 +1,6 @@
 # calc
 It's a calc! It can solve many math problems by using python
-#How to use it?
+# How to use it?
 Just run it,and input a,b,c, and the calc can tell you x1 x2.
 If x1 and x2 are the same,it will print"(sam_x)x1=x2=......"
 If x1 and x2 are different,it will print"(dif_x)x1=......x2=......"
